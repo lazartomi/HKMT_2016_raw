@@ -1,0 +1,87 @@
+
+HKMT function prediction by INGA
+---
+
+MLL4 (3500-3630)
+
+Database: Experimental, String edge confidence: Highest
+
+
+
+Database: Experimental, String edge confidence: High
+
+
+
+Database: Experimental, String edge confidence: Medium
+
+
+
+Database: All, String edge confidence: Highest
+
+
+
+Database: All, String edge confidence: High
+
+
+
+Database: All, String edge confidence: Medium
+
+
+
+---
+
+SUV420H1 (760-885)
+
+Database: Experimental, String edge confidence: Highest
+
+
+
+Database: Experimental, String edge confidence: High
+
+
+
+Database: Experimental, String edge confidence: Medium
+
+
+
+Database: All, String edge confidence: Highest
+
+
+
+Database: All, String edge confidence: High
+
+
+
+Database: All, String edge confidence: Medium
+
+
+
+---
+
+DOT1L (1080-1200)
+
+Database: Experimental, String edge confidence: Highest
+
+
+
+Database: Experimental, String edge confidence: High
+
+
+
+Database: Experimental, String edge confidence: Medium
+
+
+
+Database: All, String edge confidence: Highest
+
+
+
+Database: All, String edge confidence: High
+
+
+
+Database: All, String edge confidence: Medium
+
+
+
+---
