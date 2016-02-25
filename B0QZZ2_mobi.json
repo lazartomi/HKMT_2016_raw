@@ -1,0 +1,375 @@
+$ROOT={"MOBIDB" => {
+    "acc": "B0QZZ2", 
+    "ename": "B0QZZ2_HUMAN", 
+    "nmr": 0, 
+    "seq": "MASVPVYCLCRLPYDVTRFMIECDMCQDWFHGSCVGVEEEKAADIDLYHCPNCEVLHGPSIMKKRRGSSKGHDTHKGKPVKTGSPTFVRELRSRTFDSSDEVILKPTGNQLTVEF", 
+    "length": 115, 
+    "xray": 0, 
+    "pCons": [
+        [
+            1, 
+            3
+        ], 
+        [
+            59, 
+            88
+        ], 
+        [
+            93, 
+            93
+        ], 
+        [
+            112, 
+            115
+        ]
+    ], 
+    "pname": "Histone lysine demethylase PHF8 (Fragment)", 
+    "org": "Homo sapiens", 
+    "freqLong": 18.26, 
+    "freq": 33.04, 
+    "lpCons": [
+        [
+            64, 
+            84
+        ]
+    ]
+}
+,
+"DISORDER" => {
+    "consensus": {
+        "full": [
+            {
+                "start": 1, 
+                "ann": "d", 
+                "end": 3
+            }, 
+            {
+                "start": 4, 
+                "ann": "s", 
+                "end": 58
+            }, 
+            {
+                "start": 59, 
+                "ann": "d", 
+                "end": 88
+            }, 
+            {
+                "start": 89, 
+                "ann": "s", 
+                "end": 92
+            }, 
+            {
+                "start": 93, 
+                "ann": "d", 
+                "end": 93
+            }, 
+            {
+                "start": 94, 
+                "ann": "s", 
+                "end": 111
+            }, 
+            {
+                "start": 112, 
+                "ann": "d", 
+                "end": 115
+            }
+        ], 
+        "predictors": [
+            {
+                "start": 1, 
+                "ann": "d", 
+                "end": 3
+            }, 
+            {
+                "start": 4, 
+                "ann": "s", 
+                "end": 58
+            }, 
+            {
+                "start": 59, 
+                "ann": "d", 
+                "end": 88
+            }, 
+            {
+                "start": 89, 
+                "ann": "s", 
+                "end": 92
+            }, 
+            {
+                "start": 93, 
+                "ann": "d", 
+                "end": 93
+            }, 
+            {
+                "start": 94, 
+                "ann": "s", 
+                "end": 111
+            }, 
+            {
+                "start": 112, 
+                "ann": "d", 
+                "end": 115
+            }
+        ], 
+        "disprot": [], 
+        "long": [
+            {
+                "start": 64, 
+                "ann": "d", 
+                "end": 84
+            }
+        ], 
+        "pdb": [], 
+        "pdb_xray": [], 
+        "pdb_nmr": []
+    }, 
+    "lowcomplex": [], 
+    "predictors": [
+        {
+            "pred": "espX", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 5
+                }, 
+                {
+                    "start": 6, 
+                    "ann": "s", 
+                    "end": 64
+                }, 
+                {
+                    "start": 65, 
+                    "ann": "d", 
+                    "end": 84
+                }, 
+                {
+                    "start": 85, 
+                    "ann": "s", 
+                    "end": 111
+                }, 
+                {
+                    "start": 112, 
+                    "ann": "d", 
+                    "end": 115
+                }
+            ]
+        }, 
+        {
+            "pred": "iups", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "s", 
+                    "end": 60
+                }, 
+                {
+                    "start": 61, 
+                    "ann": "d", 
+                    "end": 93
+                }, 
+                {
+                    "start": 94, 
+                    "ann": "s", 
+                    "end": 108
+                }, 
+                {
+                    "start": 109, 
+                    "ann": "d", 
+                    "end": 115
+                }
+            ]
+        }, 
+        {
+            "pred": "jronn", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "s", 
+                    "end": 58
+                }, 
+                {
+                    "start": 59, 
+                    "ann": "d", 
+                    "end": 110
+                }, 
+                {
+                    "start": 111, 
+                    "ann": "s", 
+                    "end": 115
+                }
+            ]
+        }, 
+        {
+            "pred": "dis465", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 4
+                }, 
+                {
+                    "start": 5, 
+                    "ann": "s", 
+                    "end": 62
+                }, 
+                {
+                    "start": 63, 
+                    "ann": "d", 
+                    "end": 79
+                }, 
+                {
+                    "start": 80, 
+                    "ann": "s", 
+                    "end": 111
+                }, 
+                {
+                    "start": 112, 
+                    "ann": "d", 
+                    "end": 115
+                }
+            ]
+        }, 
+        {
+            "pred": "vsl", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 3
+                }, 
+                {
+                    "start": 4, 
+                    "ann": "s", 
+                    "end": 58
+                }, 
+                {
+                    "start": 59, 
+                    "ann": "d", 
+                    "end": 115
+                }
+            ]
+        }, 
+        {
+            "pred": "espD", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "s", 
+                    "end": 50
+                }, 
+                {
+                    "start": 51, 
+                    "ann": "d", 
+                    "end": 103
+                }, 
+                {
+                    "start": 104, 
+                    "ann": "s", 
+                    "end": 115
+                }
+            ]
+        }, 
+        {
+            "pred": "disHL", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 7
+                }, 
+                {
+                    "start": 8, 
+                    "ann": "s", 
+                    "end": 50
+                }, 
+                {
+                    "start": 51, 
+                    "ann": "d", 
+                    "end": 52
+                }, 
+                {
+                    "start": 53, 
+                    "ann": "s", 
+                    "end": 53
+                }, 
+                {
+                    "start": 54, 
+                    "ann": "d", 
+                    "end": 61
+                }, 
+                {
+                    "start": 62, 
+                    "ann": "s", 
+                    "end": 63
+                }, 
+                {
+                    "start": 64, 
+                    "ann": "d", 
+                    "end": 88
+                }, 
+                {
+                    "start": 89, 
+                    "ann": "s", 
+                    "end": 92
+                }, 
+                {
+                    "start": 93, 
+                    "ann": "d", 
+                    "end": 115
+                }
+            ]
+        }, 
+        {
+            "pred": "iupl", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "s", 
+                    "end": 63
+                }, 
+                {
+                    "start": 64, 
+                    "ann": "d", 
+                    "end": 84
+                }, 
+                {
+                    "start": 85, 
+                    "ann": "s", 
+                    "end": 115
+                }
+            ]
+        }, 
+        {
+            "pred": "espN", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 5
+                }, 
+                {
+                    "start": 6, 
+                    "ann": "s", 
+                    "end": 57
+                }, 
+                {
+                    "start": 58, 
+                    "ann": "d", 
+                    "end": 86
+                }, 
+                {
+                    "start": 87, 
+                    "ann": "s", 
+                    "end": 112
+                }, 
+                {
+                    "start": 113, 
+                    "ann": "d", 
+                    "end": 115
+                }
+            ]
+        }
+    ]
+}
+,};

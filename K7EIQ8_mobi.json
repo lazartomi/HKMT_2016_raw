@@ -1,0 +1,385 @@
+$ROOT={"MOBIDB" => {
+    "acc": "K7EIQ8", 
+    "ename": "K7EIQ8_HUMAN", 
+    "nmr": 0, 
+    "seq": "AEQQALRLEVRAGPDSAGIALYSHEDVCVFKCSVSRETECSRVGKQSFIITLGCNSVLIQFATPNDFCSFYNILKTCRGHTLERSVFSERTEESSAVQYFQMRKLRLREVK", 
+    "length": 111, 
+    "xray": 0, 
+    "pCons": [
+        [
+            1, 
+            1
+        ], 
+        [
+            88, 
+            95
+        ], 
+        [
+            108, 
+            111
+        ]
+    ], 
+    "pname": "Histone-arginine methyltransferase CARM1 (Fragment)", 
+    "org": "Homo sapiens", 
+    "freqLong": 0, 
+    "freq": 11.71, 
+    "lpCons": []
+}
+,
+"DISORDER" => {
+    "consensus": {
+        "full": [
+            {
+                "start": 1, 
+                "ann": "d", 
+                "end": 1
+            }, 
+            {
+                "start": 2, 
+                "ann": "s", 
+                "end": 87
+            }, 
+            {
+                "start": 88, 
+                "ann": "d", 
+                "end": 95
+            }, 
+            {
+                "start": 96, 
+                "ann": "s", 
+                "end": 107
+            }, 
+            {
+                "start": 108, 
+                "ann": "d", 
+                "end": 111
+            }
+        ], 
+        "predictors": [
+            {
+                "start": 1, 
+                "ann": "d", 
+                "end": 1
+            }, 
+            {
+                "start": 2, 
+                "ann": "s", 
+                "end": 87
+            }, 
+            {
+                "start": 88, 
+                "ann": "d", 
+                "end": 95
+            }, 
+            {
+                "start": 96, 
+                "ann": "s", 
+                "end": 107
+            }, 
+            {
+                "start": 108, 
+                "ann": "d", 
+                "end": 111
+            }
+        ], 
+        "disprot": [], 
+        "long": [], 
+        "pdb": [], 
+        "pdb_xray": [], 
+        "pdb_nmr": []
+    }, 
+    "lowcomplex": [], 
+    "predictors": [
+        {
+            "pred": "vsl", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 6
+                }, 
+                {
+                    "start": 7, 
+                    "ann": "s", 
+                    "end": 37
+                }, 
+                {
+                    "start": 38, 
+                    "ann": "d", 
+                    "end": 41
+                }, 
+                {
+                    "start": 42, 
+                    "ann": "s", 
+                    "end": 83
+                }, 
+                {
+                    "start": 84, 
+                    "ann": "d", 
+                    "end": 98
+                }, 
+                {
+                    "start": 99, 
+                    "ann": "s", 
+                    "end": 101
+                }, 
+                {
+                    "start": 102, 
+                    "ann": "d", 
+                    "end": 111
+                }
+            ]
+        }, 
+        {
+            "pred": "disHL", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 1
+                }, 
+                {
+                    "start": 2, 
+                    "ann": "s", 
+                    "end": 6
+                }, 
+                {
+                    "start": 7, 
+                    "ann": "d", 
+                    "end": 19
+                }, 
+                {
+                    "start": 20, 
+                    "ann": "s", 
+                    "end": 82
+                }, 
+                {
+                    "start": 83, 
+                    "ann": "d", 
+                    "end": 103
+                }, 
+                {
+                    "start": 104, 
+                    "ann": "s", 
+                    "end": 104
+                }, 
+                {
+                    "start": 105, 
+                    "ann": "d", 
+                    "end": 106
+                }, 
+                {
+                    "start": 107, 
+                    "ann": "s", 
+                    "end": 107
+                }, 
+                {
+                    "start": 108, 
+                    "ann": "d", 
+                    "end": 111
+                }
+            ]
+        }, 
+        {
+            "pred": "espN", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "s", 
+                    "end": 109
+                }, 
+                {
+                    "start": 110, 
+                    "ann": "d", 
+                    "end": 111
+                }
+            ]
+        }, 
+        {
+            "pred": "iups", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 8
+                }, 
+                {
+                    "start": 9, 
+                    "ann": "s", 
+                    "end": 107
+                }, 
+                {
+                    "start": 108, 
+                    "ann": "d", 
+                    "end": 111
+                }
+            ]
+        }, 
+        {
+            "pred": "dis465", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 5
+                }, 
+                {
+                    "start": 6, 
+                    "ann": "s", 
+                    "end": 6
+                }, 
+                {
+                    "start": 7, 
+                    "ann": "d", 
+                    "end": 7
+                }, 
+                {
+                    "start": 8, 
+                    "ann": "s", 
+                    "end": 35
+                }, 
+                {
+                    "start": 36, 
+                    "ann": "d", 
+                    "end": 42
+                }, 
+                {
+                    "start": 43, 
+                    "ann": "s", 
+                    "end": 87
+                }, 
+                {
+                    "start": 88, 
+                    "ann": "d", 
+                    "end": 95
+                }, 
+                {
+                    "start": 96, 
+                    "ann": "s", 
+                    "end": 107
+                }, 
+                {
+                    "start": 108, 
+                    "ann": "d", 
+                    "end": 111
+                }
+            ]
+        }, 
+        {
+            "pred": "iupl", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "s", 
+                    "end": 111
+                }
+            ]
+        }, 
+        {
+            "pred": "espD", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "s", 
+                    "end": 11
+                }, 
+                {
+                    "start": 12, 
+                    "ann": "d", 
+                    "end": 23
+                }, 
+                {
+                    "start": 24, 
+                    "ann": "s", 
+                    "end": 37
+                }, 
+                {
+                    "start": 38, 
+                    "ann": "d", 
+                    "end": 38
+                }, 
+                {
+                    "start": 39, 
+                    "ann": "s", 
+                    "end": 82
+                }, 
+                {
+                    "start": 83, 
+                    "ann": "d", 
+                    "end": 84
+                }, 
+                {
+                    "start": 85, 
+                    "ann": "s", 
+                    "end": 85
+                }, 
+                {
+                    "start": 86, 
+                    "ann": "d", 
+                    "end": 98
+                }, 
+                {
+                    "start": 99, 
+                    "ann": "s", 
+                    "end": 111
+                }
+            ]
+        }, 
+        {
+            "pred": "espX", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 5
+                }, 
+                {
+                    "start": 6, 
+                    "ann": "s", 
+                    "end": 108
+                }, 
+                {
+                    "start": 109, 
+                    "ann": "d", 
+                    "end": 111
+                }
+            ]
+        }, 
+        {
+            "pred": "jronn", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "s", 
+                    "end": 80
+                }, 
+                {
+                    "start": 81, 
+                    "ann": "d", 
+                    "end": 100
+                }, 
+                {
+                    "start": 101, 
+                    "ann": "s", 
+                    "end": 104
+                }, 
+                {
+                    "start": 105, 
+                    "ann": "d", 
+                    "end": 111
+                }
+            ]
+        }, 
+        {
+            "pred": "glo", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "s", 
+                    "end": 111
+                }
+            ]
+        }
+    ]
+}
+,};

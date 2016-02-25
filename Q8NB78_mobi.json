@@ -1,0 +1,1872 @@
+$ROOT={"MOBIDB" => {
+    "acc": "Q8NB78", 
+    "ename": "KDM1B_HUMAN", 
+    "nmr": 0, 
+    "seq": "MATPRGRTKKKASFDHSPDSLPLRSSGRQAKKKATETTDEDEDGGSEKKYRKCEKAGCTATCPVCFASASERCAKNGYTSRWYHLSCGEHFCNECFDHYYRSHKDGYDKYTTWKKIWTSNGKTEPSPKAFMADQQLPYWVQCTKPECRKWRQLTKEIQLTPQIAKTYRCGMKPNTAIKPETSDHCSLPEDLRVLEVSNHWWYSMLILPPLLKDSVAAPLLSAYYPDCVGMSPSCTSTNRAAATGNASPGKLEHSKAALSVHVPGMNRYFQPFYQPNECGKALCVRPDVMELDELYEFPEYSRDPTMYLALRNLILALWYTNCKEALTPQKCIPHIIVRGLVRIRCVQEVERILYFMTRKGLINTGVLSVGADQYLLPKDYHNKSVIIIGAGPAGLAAARQLHNFGIKVTVLEAKDRIGGRVWDDKSFKGVTVGRGAQIVNGCINNPVALMCEQLGISMHKFGERCDLIQEGGRITDPTIDKRMDFHFNALLDVVSEWRKDKTQLQDVPLGEKIEEIYKAFIKESGIQFSELEGQVLQFHLSNLEYACGSNLHQVSARSWDHNEFFAQFAGDHTLLTPGYSVIIEKLAEGLDIQLKSPVQCIDYSGDEVQVTTTDGTGYSAQKVLVTVPLALLQKGAIQFNPPLSEKKMKAINSLGAGIIEKIALQFPYRFWDSKVQGADFFGHVPPSASKRGLFAVFYDMDPQKKHSVLMSVIAGEAVASVRTLDDKQVLQQCMATLRELFKEQEVPDPTKYFVTRWSTDPWIQMAYSFVKTGGSGEAYDIIAEDIQGTVFFAGEATNRHFPQTVTGAYLSGVREASKIAAF", 
+    "length": 822, 
+    "xray": 1, 
+    "pCons": [
+        [
+            1, 
+            51
+        ], 
+        [
+            180, 
+            183
+        ], 
+        [
+            239, 
+            239
+        ], 
+        [
+            241, 
+            242
+        ], 
+        [
+            245, 
+            251
+        ], 
+        [
+            820, 
+            821
+        ]
+    ], 
+    "pname": "Lysine-specific histone demethylase 1B", 
+    "org": "Homo sapiens", 
+    "freqLong": 5.6, 
+    "freq": 8.15, 
+    "lpCons": [
+        [
+            1, 
+            46
+        ]
+    ]
+}
+,
+"DISORDER" => {
+    "consensus": {
+        "full": [
+            {
+                "start": 1, 
+                "ann": "d", 
+                "end": 29
+            }, 
+            {
+                "start": 30, 
+                "ann": "D", 
+                "end": 47
+            }, 
+            {
+                "start": 48, 
+                "ann": "C", 
+                "end": 49
+            }, 
+            {
+                "start": 50, 
+                "ann": "S", 
+                "end": 74
+            }, 
+            {
+                "start": 75, 
+                "ann": "C", 
+                "end": 75
+            }, 
+            {
+                "start": 76, 
+                "ann": "S", 
+                "end": 171
+            }, 
+            {
+                "start": 172, 
+                "ann": "C", 
+                "end": 183
+            }, 
+            {
+                "start": 184, 
+                "ann": "S", 
+                "end": 234
+            }, 
+            {
+                "start": 235, 
+                "ann": "C", 
+                "end": 237
+            }, 
+            {
+                "start": 238, 
+                "ann": "D", 
+                "end": 259
+            }, 
+            {
+                "start": 260, 
+                "ann": "C", 
+                "end": 263
+            }, 
+            {
+                "start": 264, 
+                "ann": "S", 
+                "end": 821
+            }, 
+            {
+                "start": 822, 
+                "ann": "C", 
+                "end": 822
+            }
+        ], 
+        "predictors": [
+            {
+                "start": 1, 
+                "ann": "d", 
+                "end": 51
+            }, 
+            {
+                "start": 52, 
+                "ann": "s", 
+                "end": 179
+            }, 
+            {
+                "start": 180, 
+                "ann": "d", 
+                "end": 183
+            }, 
+            {
+                "start": 184, 
+                "ann": "s", 
+                "end": 238
+            }, 
+            {
+                "start": 239, 
+                "ann": "d", 
+                "end": 239
+            }, 
+            {
+                "start": 240, 
+                "ann": "s", 
+                "end": 240
+            }, 
+            {
+                "start": 241, 
+                "ann": "d", 
+                "end": 242
+            }, 
+            {
+                "start": 243, 
+                "ann": "s", 
+                "end": 244
+            }, 
+            {
+                "start": 245, 
+                "ann": "d", 
+                "end": 251
+            }, 
+            {
+                "start": 252, 
+                "ann": "s", 
+                "end": 819
+            }, 
+            {
+                "start": 820, 
+                "ann": "d", 
+                "end": 821
+            }, 
+            {
+                "start": 822, 
+                "ann": "s", 
+                "end": 822
+            }
+        ], 
+        "disprot": [], 
+        "long": [
+            {
+                "start": 1, 
+                "ann": "d", 
+                "end": 46
+            }
+        ], 
+        "pdb": [
+            {
+                "start": 30, 
+                "ann": "D", 
+                "end": 47
+            }, 
+            {
+                "start": 48, 
+                "ann": "C", 
+                "end": 49
+            }, 
+            {
+                "start": 50, 
+                "ann": "S", 
+                "end": 74
+            }, 
+            {
+                "start": 75, 
+                "ann": "C", 
+                "end": 75
+            }, 
+            {
+                "start": 76, 
+                "ann": "S", 
+                "end": 171
+            }, 
+            {
+                "start": 172, 
+                "ann": "C", 
+                "end": 183
+            }, 
+            {
+                "start": 184, 
+                "ann": "S", 
+                "end": 234
+            }, 
+            {
+                "start": 235, 
+                "ann": "C", 
+                "end": 237
+            }, 
+            {
+                "start": 238, 
+                "ann": "D", 
+                "end": 259
+            }, 
+            {
+                "start": 260, 
+                "ann": "C", 
+                "end": 263
+            }, 
+            {
+                "start": 264, 
+                "ann": "S", 
+                "end": 821
+            }, 
+            {
+                "start": 822, 
+                "ann": "C", 
+                "end": 822
+            }
+        ], 
+        "pdb_xray": [
+            {
+                "start": 30, 
+                "ann": "D", 
+                "end": 47
+            }, 
+            {
+                "start": 48, 
+                "ann": "C", 
+                "end": 49
+            }, 
+            {
+                "start": 50, 
+                "ann": "S", 
+                "end": 74
+            }, 
+            {
+                "start": 75, 
+                "ann": "C", 
+                "end": 75
+            }, 
+            {
+                "start": 76, 
+                "ann": "S", 
+                "end": 171
+            }, 
+            {
+                "start": 172, 
+                "ann": "C", 
+                "end": 183
+            }, 
+            {
+                "start": 184, 
+                "ann": "S", 
+                "end": 234
+            }, 
+            {
+                "start": 235, 
+                "ann": "C", 
+                "end": 237
+            }, 
+            {
+                "start": 238, 
+                "ann": "D", 
+                "end": 259
+            }, 
+            {
+                "start": 260, 
+                "ann": "C", 
+                "end": 263
+            }, 
+            {
+                "start": 264, 
+                "ann": "S", 
+                "end": 821
+            }, 
+            {
+                "start": 822, 
+                "ann": "C", 
+                "end": 822
+            }
+        ], 
+        "pdb_nmr": []
+    }, 
+    "lowcomplex": [], 
+    "pdb": [
+        {
+            "consensus": [
+                {
+                    "start": 30, 
+                    "ann": "D", 
+                    "end": 48
+                }, 
+                {
+                    "start": 49, 
+                    "ann": "S", 
+                    "end": 175
+                }, 
+                {
+                    "start": 176, 
+                    "ann": "D", 
+                    "end": 177
+                }, 
+                {
+                    "start": 178, 
+                    "ann": "S", 
+                    "end": 237
+                }, 
+                {
+                    "start": 238, 
+                    "ann": "D", 
+                    "end": 259
+                }, 
+                {
+                    "start": 260, 
+                    "ann": "S", 
+                    "end": 822
+                }
+            ], 
+            "type": "xray", 
+            "resolution": 2.13, 
+            "chains": [
+                {
+                    "anns": [
+                        {
+                            "start": 30, 
+                            "ann": "D", 
+                            "end": 48
+                        }, 
+                        {
+                            "start": 49, 
+                            "ann": "S", 
+                            "end": 175
+                        }, 
+                        {
+                            "start": 176, 
+                            "ann": "D", 
+                            "end": 177
+                        }, 
+                        {
+                            "start": 178, 
+                            "ann": "S", 
+                            "end": 237
+                        }, 
+                        {
+                            "start": 238, 
+                            "ann": "D", 
+                            "end": 259
+                        }, 
+                        {
+                            "start": 260, 
+                            "ann": "S", 
+                            "end": 822
+                        }
+                    ], 
+                    "id": "A"
+                }
+            ], 
+            "id": "4fwe"
+        }, 
+        {
+            "consensus": [
+                {
+                    "start": 51, 
+                    "ann": "S", 
+                    "end": 235
+                }, 
+                {
+                    "start": 236, 
+                    "ann": "D", 
+                    "end": 263
+                }, 
+                {
+                    "start": 264, 
+                    "ann": "S", 
+                    "end": 822
+                }
+            ], 
+            "type": "xray", 
+            "resolution": 3.103, 
+            "chains": [
+                {
+                    "anns": [
+                        {
+                            "start": 51, 
+                            "ann": "S", 
+                            "end": 235
+                        }, 
+                        {
+                            "start": 236, 
+                            "ann": "D", 
+                            "end": 263
+                        }, 
+                        {
+                            "start": 264, 
+                            "ann": "S", 
+                            "end": 822
+                        }
+                    ], 
+                    "id": "A"
+                }, 
+                {
+                    "anns": [
+                        {
+                            "start": 51, 
+                            "ann": "S", 
+                            "end": 171
+                        }, 
+                        {
+                            "start": 172, 
+                            "ann": "D", 
+                            "end": 182
+                        }, 
+                        {
+                            "start": 183, 
+                            "ann": "S", 
+                            "end": 235
+                        }, 
+                        {
+                            "start": 236, 
+                            "ann": "D", 
+                            "end": 263
+                        }, 
+                        {
+                            "start": 264, 
+                            "ann": "S", 
+                            "end": 822
+                        }
+                    ], 
+                    "id": "C"
+                }, 
+                {
+                    "anns": [
+                        {
+                            "start": 51, 
+                            "ann": "S", 
+                            "end": 235
+                        }, 
+                        {
+                            "start": 236, 
+                            "ann": "D", 
+                            "end": 263
+                        }, 
+                        {
+                            "start": 264, 
+                            "ann": "S", 
+                            "end": 822
+                        }
+                    ], 
+                    "id": "B"
+                }, 
+                {
+                    "anns": [
+                        {
+                            "start": 51, 
+                            "ann": "S", 
+                            "end": 171
+                        }, 
+                        {
+                            "start": 172, 
+                            "ann": "D", 
+                            "end": 182
+                        }, 
+                        {
+                            "start": 183, 
+                            "ann": "S", 
+                            "end": 235
+                        }, 
+                        {
+                            "start": 236, 
+                            "ann": "D", 
+                            "end": 263
+                        }, 
+                        {
+                            "start": 264, 
+                            "ann": "S", 
+                            "end": 822
+                        }
+                    ], 
+                    "id": "D"
+                }
+            ], 
+            "id": "4gu0"
+        }, 
+        {
+            "consensus": [
+                {
+                    "start": 30, 
+                    "ann": "D", 
+                    "end": 49
+                }, 
+                {
+                    "start": 50, 
+                    "ann": "S", 
+                    "end": 74
+                }, 
+                {
+                    "start": 75, 
+                    "ann": "D", 
+                    "end": 75
+                }, 
+                {
+                    "start": 76, 
+                    "ann": "S", 
+                    "end": 173
+                }, 
+                {
+                    "start": 174, 
+                    "ann": "D", 
+                    "end": 183
+                }, 
+                {
+                    "start": 184, 
+                    "ann": "S", 
+                    "end": 237
+                }, 
+                {
+                    "start": 238, 
+                    "ann": "D", 
+                    "end": 260
+                }, 
+                {
+                    "start": 261, 
+                    "ann": "S", 
+                    "end": 822
+                }
+            ], 
+            "type": "xray", 
+            "resolution": 2.7, 
+            "chains": [
+                {
+                    "anns": [
+                        {
+                            "start": 30, 
+                            "ann": "D", 
+                            "end": 49
+                        }, 
+                        {
+                            "start": 50, 
+                            "ann": "S", 
+                            "end": 74
+                        }, 
+                        {
+                            "start": 75, 
+                            "ann": "D", 
+                            "end": 75
+                        }, 
+                        {
+                            "start": 76, 
+                            "ann": "S", 
+                            "end": 173
+                        }, 
+                        {
+                            "start": 174, 
+                            "ann": "D", 
+                            "end": 183
+                        }, 
+                        {
+                            "start": 184, 
+                            "ann": "S", 
+                            "end": 237
+                        }, 
+                        {
+                            "start": 238, 
+                            "ann": "D", 
+                            "end": 260
+                        }, 
+                        {
+                            "start": 261, 
+                            "ann": "S", 
+                            "end": 822
+                        }
+                    ], 
+                    "id": "A"
+                }
+            ], 
+            "id": "4fwf"
+        }, 
+        {
+            "consensus": [
+                {
+                    "start": 51, 
+                    "ann": "S", 
+                    "end": 174
+                }, 
+                {
+                    "start": 175, 
+                    "ann": "D", 
+                    "end": 181
+                }, 
+                {
+                    "start": 182, 
+                    "ann": "S", 
+                    "end": 235
+                }, 
+                {
+                    "start": 236, 
+                    "ann": "D", 
+                    "end": 263
+                }, 
+                {
+                    "start": 264, 
+                    "ann": "S", 
+                    "end": 821
+                }, 
+                {
+                    "start": 822, 
+                    "ann": "D", 
+                    "end": 822
+                }
+            ], 
+            "type": "xray", 
+            "resolution": 2.302, 
+            "chains": [
+                {
+                    "anns": [
+                        {
+                            "start": 51, 
+                            "ann": "S", 
+                            "end": 174
+                        }, 
+                        {
+                            "start": 175, 
+                            "ann": "D", 
+                            "end": 181
+                        }, 
+                        {
+                            "start": 182, 
+                            "ann": "S", 
+                            "end": 235
+                        }, 
+                        {
+                            "start": 236, 
+                            "ann": "D", 
+                            "end": 263
+                        }, 
+                        {
+                            "start": 264, 
+                            "ann": "S", 
+                            "end": 821
+                        }, 
+                        {
+                            "start": 822, 
+                            "ann": "D", 
+                            "end": 822
+                        }
+                    ], 
+                    "id": "A"
+                }
+            ], 
+            "id": "4guu"
+        }, 
+        {
+            "consensus": [
+                {
+                    "start": 51, 
+                    "ann": "S", 
+                    "end": 235
+                }, 
+                {
+                    "start": 236, 
+                    "ann": "D", 
+                    "end": 263
+                }, 
+                {
+                    "start": 264, 
+                    "ann": "S", 
+                    "end": 822
+                }
+            ], 
+            "type": "xray", 
+            "resolution": 2.23, 
+            "chains": [
+                {
+                    "anns": [
+                        {
+                            "start": 51, 
+                            "ann": "S", 
+                            "end": 235
+                        }, 
+                        {
+                            "start": 236, 
+                            "ann": "D", 
+                            "end": 263
+                        }, 
+                        {
+                            "start": 264, 
+                            "ann": "S", 
+                            "end": 822
+                        }
+                    ], 
+                    "id": "A"
+                }
+            ], 
+            "id": "4gus"
+        }, 
+        {
+            "consensus": [
+                {
+                    "start": 51, 
+                    "ann": "S", 
+                    "end": 172
+                }, 
+                {
+                    "start": 173, 
+                    "ann": "D", 
+                    "end": 180
+                }, 
+                {
+                    "start": 181, 
+                    "ann": "S", 
+                    "end": 234
+                }, 
+                {
+                    "start": 235, 
+                    "ann": "D", 
+                    "end": 263
+                }, 
+                {
+                    "start": 264, 
+                    "ann": "S", 
+                    "end": 821
+                }, 
+                {
+                    "start": 822, 
+                    "ann": "D", 
+                    "end": 822
+                }
+            ], 
+            "type": "xray", 
+            "resolution": 2.939, 
+            "chains": [
+                {
+                    "anns": [
+                        {
+                            "start": 51, 
+                            "ann": "S", 
+                            "end": 172
+                        }, 
+                        {
+                            "start": 173, 
+                            "ann": "D", 
+                            "end": 180
+                        }, 
+                        {
+                            "start": 181, 
+                            "ann": "S", 
+                            "end": 234
+                        }, 
+                        {
+                            "start": 235, 
+                            "ann": "D", 
+                            "end": 263
+                        }, 
+                        {
+                            "start": 264, 
+                            "ann": "S", 
+                            "end": 821
+                        }, 
+                        {
+                            "start": 822, 
+                            "ann": "D", 
+                            "end": 822
+                        }
+                    ], 
+                    "id": "A"
+                }, 
+                {
+                    "anns": [
+                        {
+                            "start": 51, 
+                            "ann": "S", 
+                            "end": 172
+                        }, 
+                        {
+                            "start": 173, 
+                            "ann": "D", 
+                            "end": 180
+                        }, 
+                        {
+                            "start": 181, 
+                            "ann": "S", 
+                            "end": 234
+                        }, 
+                        {
+                            "start": 235, 
+                            "ann": "D", 
+                            "end": 263
+                        }, 
+                        {
+                            "start": 264, 
+                            "ann": "S", 
+                            "end": 821
+                        }, 
+                        {
+                            "start": 822, 
+                            "ann": "D", 
+                            "end": 822
+                        }
+                    ], 
+                    "id": "B"
+                }
+            ], 
+            "id": "4gu1"
+        }, 
+        {
+            "consensus": [
+                {
+                    "start": 51, 
+                    "ann": "S", 
+                    "end": 174
+                }, 
+                {
+                    "start": 175, 
+                    "ann": "D", 
+                    "end": 181
+                }, 
+                {
+                    "start": 182, 
+                    "ann": "S", 
+                    "end": 235
+                }, 
+                {
+                    "start": 236, 
+                    "ann": "D", 
+                    "end": 263
+                }, 
+                {
+                    "start": 264, 
+                    "ann": "S", 
+                    "end": 821
+                }, 
+                {
+                    "start": 822, 
+                    "ann": "D", 
+                    "end": 822
+                }
+            ], 
+            "type": "xray", 
+            "resolution": 1.998, 
+            "chains": [
+                {
+                    "anns": [
+                        {
+                            "start": 51, 
+                            "ann": "S", 
+                            "end": 174
+                        }, 
+                        {
+                            "start": 175, 
+                            "ann": "D", 
+                            "end": 181
+                        }, 
+                        {
+                            "start": 182, 
+                            "ann": "S", 
+                            "end": 235
+                        }, 
+                        {
+                            "start": 236, 
+                            "ann": "D", 
+                            "end": 263
+                        }, 
+                        {
+                            "start": 264, 
+                            "ann": "S", 
+                            "end": 821
+                        }, 
+                        {
+                            "start": 822, 
+                            "ann": "D", 
+                            "end": 822
+                        }
+                    ], 
+                    "id": "A"
+                }
+            ], 
+            "id": "4gut"
+        }, 
+        {
+            "consensus": [
+                {
+                    "start": 30, 
+                    "ann": "D", 
+                    "end": 47
+                }, 
+                {
+                    "start": 48, 
+                    "ann": "S", 
+                    "end": 176
+                }, 
+                {
+                    "start": 177, 
+                    "ann": "D", 
+                    "end": 177
+                }, 
+                {
+                    "start": 178, 
+                    "ann": "S", 
+                    "end": 237
+                }, 
+                {
+                    "start": 238, 
+                    "ann": "D", 
+                    "end": 261
+                }, 
+                {
+                    "start": 262, 
+                    "ann": "S", 
+                    "end": 822
+                }
+            ], 
+            "type": "xray", 
+            "resolution": 2.9, 
+            "chains": [
+                {
+                    "anns": [
+                        {
+                            "start": 30, 
+                            "ann": "D", 
+                            "end": 47
+                        }, 
+                        {
+                            "start": 48, 
+                            "ann": "S", 
+                            "end": 176
+                        }, 
+                        {
+                            "start": 177, 
+                            "ann": "D", 
+                            "end": 177
+                        }, 
+                        {
+                            "start": 178, 
+                            "ann": "S", 
+                            "end": 237
+                        }, 
+                        {
+                            "start": 238, 
+                            "ann": "D", 
+                            "end": 261
+                        }, 
+                        {
+                            "start": 262, 
+                            "ann": "S", 
+                            "end": 822
+                        }
+                    ], 
+                    "id": "A"
+                }, 
+                {
+                    "anns": [
+                        {
+                            "start": 30, 
+                            "ann": "D", 
+                            "end": 50
+                        }, 
+                        {
+                            "start": 51, 
+                            "ann": "S", 
+                            "end": 104
+                        }, 
+                        {
+                            "start": 105, 
+                            "ann": "D", 
+                            "end": 105
+                        }, 
+                        {
+                            "start": 106, 
+                            "ann": "S", 
+                            "end": 174
+                        }, 
+                        {
+                            "start": 175, 
+                            "ann": "D", 
+                            "end": 179
+                        }, 
+                        {
+                            "start": 180, 
+                            "ann": "S", 
+                            "end": 237
+                        }, 
+                        {
+                            "start": 238, 
+                            "ann": "D", 
+                            "end": 261
+                        }, 
+                        {
+                            "start": 262, 
+                            "ann": "S", 
+                            "end": 822
+                        }
+                    ], 
+                    "id": "B"
+                }
+            ], 
+            "id": "4fwj"
+        }, 
+        {
+            "consensus": [
+                {
+                    "start": 51, 
+                    "ann": "S", 
+                    "end": 172
+                }, 
+                {
+                    "start": 173, 
+                    "ann": "D", 
+                    "end": 181
+                }, 
+                {
+                    "start": 182, 
+                    "ann": "S", 
+                    "end": 235
+                }, 
+                {
+                    "start": 236, 
+                    "ann": "D", 
+                    "end": 263
+                }, 
+                {
+                    "start": 264, 
+                    "ann": "S", 
+                    "end": 822
+                }
+            ], 
+            "type": "xray", 
+            "resolution": 1.988, 
+            "chains": [
+                {
+                    "anns": [
+                        {
+                            "start": 51, 
+                            "ann": "S", 
+                            "end": 172
+                        }, 
+                        {
+                            "start": 173, 
+                            "ann": "D", 
+                            "end": 181
+                        }, 
+                        {
+                            "start": 182, 
+                            "ann": "S", 
+                            "end": 235
+                        }, 
+                        {
+                            "start": 236, 
+                            "ann": "D", 
+                            "end": 263
+                        }, 
+                        {
+                            "start": 264, 
+                            "ann": "S", 
+                            "end": 822
+                        }
+                    ], 
+                    "id": "A"
+                }
+            ], 
+            "id": "4hsu"
+        }, 
+        {
+            "consensus": [
+                {
+                    "start": 51, 
+                    "ann": "S", 
+                    "end": 171
+                }, 
+                {
+                    "start": 172, 
+                    "ann": "D", 
+                    "end": 181
+                }, 
+                {
+                    "start": 182, 
+                    "ann": "S", 
+                    "end": 235
+                }, 
+                {
+                    "start": 236, 
+                    "ann": "D", 
+                    "end": 263
+                }, 
+                {
+                    "start": 264, 
+                    "ann": "S", 
+                    "end": 822
+                }
+            ], 
+            "type": "xray", 
+            "resolution": 2.506, 
+            "chains": [
+                {
+                    "anns": [
+                        {
+                            "start": 51, 
+                            "ann": "S", 
+                            "end": 171
+                        }, 
+                        {
+                            "start": 172, 
+                            "ann": "D", 
+                            "end": 181
+                        }, 
+                        {
+                            "start": 182, 
+                            "ann": "S", 
+                            "end": 235
+                        }, 
+                        {
+                            "start": 236, 
+                            "ann": "D", 
+                            "end": 263
+                        }, 
+                        {
+                            "start": 264, 
+                            "ann": "S", 
+                            "end": 822
+                        }
+                    ], 
+                    "id": "A"
+                }
+            ], 
+            "id": "4gur"
+        }
+    ], 
+    "predictors": [
+        {
+            "pred": "jronn", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 55
+                }, 
+                {
+                    "start": 56, 
+                    "ann": "s", 
+                    "end": 173
+                }, 
+                {
+                    "start": 174, 
+                    "ann": "d", 
+                    "end": 183
+                }, 
+                {
+                    "start": 184, 
+                    "ann": "s", 
+                    "end": 226
+                }, 
+                {
+                    "start": 227, 
+                    "ann": "d", 
+                    "end": 270
+                }, 
+                {
+                    "start": 271, 
+                    "ann": "s", 
+                    "end": 467
+                }, 
+                {
+                    "start": 468, 
+                    "ann": "d", 
+                    "end": 475
+                }, 
+                {
+                    "start": 476, 
+                    "ann": "s", 
+                    "end": 631
+                }, 
+                {
+                    "start": 632, 
+                    "ann": "d", 
+                    "end": 649
+                }, 
+                {
+                    "start": 650, 
+                    "ann": "s", 
+                    "end": 684
+                }, 
+                {
+                    "start": 685, 
+                    "ann": "d", 
+                    "end": 687
+                }, 
+                {
+                    "start": 688, 
+                    "ann": "s", 
+                    "end": 822
+                }
+            ]
+        }, 
+        {
+            "pred": "iups", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 43
+                }, 
+                {
+                    "start": 44, 
+                    "ann": "s", 
+                    "end": 127
+                }, 
+                {
+                    "start": 128, 
+                    "ann": "d", 
+                    "end": 128
+                }, 
+                {
+                    "start": 129, 
+                    "ann": "s", 
+                    "end": 179
+                }, 
+                {
+                    "start": 180, 
+                    "ann": "d", 
+                    "end": 181
+                }, 
+                {
+                    "start": 182, 
+                    "ann": "s", 
+                    "end": 244
+                }, 
+                {
+                    "start": 245, 
+                    "ann": "d", 
+                    "end": 248
+                }, 
+                {
+                    "start": 249, 
+                    "ann": "s", 
+                    "end": 819
+                }, 
+                {
+                    "start": 820, 
+                    "ann": "d", 
+                    "end": 822
+                }
+            ]
+        }, 
+        {
+            "pred": "vsl", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 65
+                }, 
+                {
+                    "start": 66, 
+                    "ann": "s", 
+                    "end": 102
+                }, 
+                {
+                    "start": 103, 
+                    "ann": "d", 
+                    "end": 107
+                }, 
+                {
+                    "start": 108, 
+                    "ann": "s", 
+                    "end": 119
+                }, 
+                {
+                    "start": 120, 
+                    "ann": "d", 
+                    "end": 129
+                }, 
+                {
+                    "start": 130, 
+                    "ann": "s", 
+                    "end": 151
+                }, 
+                {
+                    "start": 152, 
+                    "ann": "d", 
+                    "end": 153
+                }, 
+                {
+                    "start": 154, 
+                    "ann": "s", 
+                    "end": 173
+                }, 
+                {
+                    "start": 174, 
+                    "ann": "d", 
+                    "end": 184
+                }, 
+                {
+                    "start": 185, 
+                    "ann": "s", 
+                    "end": 230
+                }, 
+                {
+                    "start": 231, 
+                    "ann": "d", 
+                    "end": 257
+                }, 
+                {
+                    "start": 258, 
+                    "ann": "s", 
+                    "end": 609
+                }, 
+                {
+                    "start": 610, 
+                    "ann": "d", 
+                    "end": 613
+                }, 
+                {
+                    "start": 614, 
+                    "ann": "s", 
+                    "end": 641
+                }, 
+                {
+                    "start": 642, 
+                    "ann": "d", 
+                    "end": 650
+                }, 
+                {
+                    "start": 651, 
+                    "ann": "s", 
+                    "end": 685
+                }, 
+                {
+                    "start": 686, 
+                    "ann": "d", 
+                    "end": 688
+                }, 
+                {
+                    "start": 689, 
+                    "ann": "s", 
+                    "end": 704
+                }, 
+                {
+                    "start": 705, 
+                    "ann": "d", 
+                    "end": 705
+                }, 
+                {
+                    "start": 706, 
+                    "ann": "s", 
+                    "end": 742
+                }, 
+                {
+                    "start": 743, 
+                    "ann": "d", 
+                    "end": 744
+                }, 
+                {
+                    "start": 745, 
+                    "ann": "s", 
+                    "end": 815
+                }, 
+                {
+                    "start": 816, 
+                    "ann": "d", 
+                    "end": 822
+                }
+            ]
+        }, 
+        {
+            "pred": "iupl", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 41
+                }, 
+                {
+                    "start": 42, 
+                    "ann": "s", 
+                    "end": 42
+                }, 
+                {
+                    "start": 43, 
+                    "ann": "d", 
+                    "end": 46
+                }, 
+                {
+                    "start": 47, 
+                    "ann": "s", 
+                    "end": 238
+                }, 
+                {
+                    "start": 239, 
+                    "ann": "d", 
+                    "end": 239
+                }, 
+                {
+                    "start": 240, 
+                    "ann": "s", 
+                    "end": 240
+                }, 
+                {
+                    "start": 241, 
+                    "ann": "d", 
+                    "end": 242
+                }, 
+                {
+                    "start": 243, 
+                    "ann": "s", 
+                    "end": 244
+                }, 
+                {
+                    "start": 245, 
+                    "ann": "d", 
+                    "end": 246
+                }, 
+                {
+                    "start": 247, 
+                    "ann": "s", 
+                    "end": 822
+                }
+            ]
+        }, 
+        {
+            "pred": "espD", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 43
+                }, 
+                {
+                    "start": 44, 
+                    "ann": "s", 
+                    "end": 822
+                }
+            ]
+        }, 
+        {
+            "pred": "disHL", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 53
+                }, 
+                {
+                    "start": 54, 
+                    "ann": "s", 
+                    "end": 54
+                }, 
+                {
+                    "start": 55, 
+                    "ann": "d", 
+                    "end": 59
+                }, 
+                {
+                    "start": 60, 
+                    "ann": "s", 
+                    "end": 118
+                }, 
+                {
+                    "start": 119, 
+                    "ann": "d", 
+                    "end": 130
+                }, 
+                {
+                    "start": 131, 
+                    "ann": "s", 
+                    "end": 131
+                }, 
+                {
+                    "start": 132, 
+                    "ann": "d", 
+                    "end": 135
+                }, 
+                {
+                    "start": 136, 
+                    "ann": "s", 
+                    "end": 152
+                }, 
+                {
+                    "start": 153, 
+                    "ann": "d", 
+                    "end": 170
+                }, 
+                {
+                    "start": 171, 
+                    "ann": "s", 
+                    "end": 176
+                }, 
+                {
+                    "start": 177, 
+                    "ann": "d", 
+                    "end": 187
+                }, 
+                {
+                    "start": 188, 
+                    "ann": "s", 
+                    "end": 228
+                }, 
+                {
+                    "start": 229, 
+                    "ann": "d", 
+                    "end": 232
+                }, 
+                {
+                    "start": 233, 
+                    "ann": "s", 
+                    "end": 244
+                }, 
+                {
+                    "start": 245, 
+                    "ann": "d", 
+                    "end": 251
+                }, 
+                {
+                    "start": 252, 
+                    "ann": "s", 
+                    "end": 297
+                }, 
+                {
+                    "start": 298, 
+                    "ann": "d", 
+                    "end": 302
+                }, 
+                {
+                    "start": 303, 
+                    "ann": "s", 
+                    "end": 326
+                }, 
+                {
+                    "start": 327, 
+                    "ann": "d", 
+                    "end": 335
+                }, 
+                {
+                    "start": 336, 
+                    "ann": "s", 
+                    "end": 356
+                }, 
+                {
+                    "start": 357, 
+                    "ann": "d", 
+                    "end": 365
+                }, 
+                {
+                    "start": 366, 
+                    "ann": "s", 
+                    "end": 410
+                }, 
+                {
+                    "start": 411, 
+                    "ann": "d", 
+                    "end": 432
+                }, 
+                {
+                    "start": 433, 
+                    "ann": "s", 
+                    "end": 434
+                }, 
+                {
+                    "start": 435, 
+                    "ann": "d", 
+                    "end": 441
+                }, 
+                {
+                    "start": 442, 
+                    "ann": "s", 
+                    "end": 475
+                }, 
+                {
+                    "start": 476, 
+                    "ann": "d", 
+                    "end": 479
+                }, 
+                {
+                    "start": 480, 
+                    "ann": "s", 
+                    "end": 495
+                }, 
+                {
+                    "start": 496, 
+                    "ann": "d", 
+                    "end": 497
+                }, 
+                {
+                    "start": 498, 
+                    "ann": "s", 
+                    "end": 498
+                }, 
+                {
+                    "start": 499, 
+                    "ann": "d", 
+                    "end": 511
+                }, 
+                {
+                    "start": 512, 
+                    "ann": "s", 
+                    "end": 614
+                }, 
+                {
+                    "start": 615, 
+                    "ann": "d", 
+                    "end": 619
+                }, 
+                {
+                    "start": 620, 
+                    "ann": "s", 
+                    "end": 636
+                }, 
+                {
+                    "start": 637, 
+                    "ann": "d", 
+                    "end": 645
+                }, 
+                {
+                    "start": 646, 
+                    "ann": "s", 
+                    "end": 719
+                }, 
+                {
+                    "start": 720, 
+                    "ann": "d", 
+                    "end": 725
+                }, 
+                {
+                    "start": 726, 
+                    "ann": "s", 
+                    "end": 738
+                }, 
+                {
+                    "start": 739, 
+                    "ann": "d", 
+                    "end": 749
+                }, 
+                {
+                    "start": 750, 
+                    "ann": "s", 
+                    "end": 754
+                }, 
+                {
+                    "start": 755, 
+                    "ann": "d", 
+                    "end": 762
+                }, 
+                {
+                    "start": 763, 
+                    "ann": "s", 
+                    "end": 797
+                }, 
+                {
+                    "start": 798, 
+                    "ann": "d", 
+                    "end": 801
+                }, 
+                {
+                    "start": 802, 
+                    "ann": "s", 
+                    "end": 808
+                }, 
+                {
+                    "start": 809, 
+                    "ann": "d", 
+                    "end": 809
+                }, 
+                {
+                    "start": 810, 
+                    "ann": "s", 
+                    "end": 817
+                }, 
+                {
+                    "start": 818, 
+                    "ann": "d", 
+                    "end": 822
+                }
+            ]
+        }, 
+        {
+            "pred": "dis465", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 21
+                }, 
+                {
+                    "start": 22, 
+                    "ann": "s", 
+                    "end": 22
+                }, 
+                {
+                    "start": 23, 
+                    "ann": "d", 
+                    "end": 55
+                }, 
+                {
+                    "start": 56, 
+                    "ann": "s", 
+                    "end": 180
+                }, 
+                {
+                    "start": 181, 
+                    "ann": "d", 
+                    "end": 183
+                }, 
+                {
+                    "start": 184, 
+                    "ann": "s", 
+                    "end": 238
+                }, 
+                {
+                    "start": 239, 
+                    "ann": "d", 
+                    "end": 252
+                }, 
+                {
+                    "start": 253, 
+                    "ann": "s", 
+                    "end": 499
+                }, 
+                {
+                    "start": 500, 
+                    "ann": "d", 
+                    "end": 502
+                }, 
+                {
+                    "start": 503, 
+                    "ann": "s", 
+                    "end": 815
+                }, 
+                {
+                    "start": 816, 
+                    "ann": "d", 
+                    "end": 816
+                }, 
+                {
+                    "start": 817, 
+                    "ann": "s", 
+                    "end": 819
+                }, 
+                {
+                    "start": 820, 
+                    "ann": "d", 
+                    "end": 822
+                }
+            ]
+        }, 
+        {
+            "pred": "espX", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 51
+                }, 
+                {
+                    "start": 52, 
+                    "ann": "s", 
+                    "end": 819
+                }, 
+                {
+                    "start": 820, 
+                    "ann": "d", 
+                    "end": 821
+                }, 
+                {
+                    "start": 822, 
+                    "ann": "s", 
+                    "end": 822
+                }
+            ]
+        }, 
+        {
+            "pred": "espN", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 51
+                }, 
+                {
+                    "start": 52, 
+                    "ann": "s", 
+                    "end": 102
+                }, 
+                {
+                    "start": 103, 
+                    "ann": "d", 
+                    "end": 107
+                }, 
+                {
+                    "start": 108, 
+                    "ann": "s", 
+                    "end": 118
+                }, 
+                {
+                    "start": 119, 
+                    "ann": "d", 
+                    "end": 125
+                }, 
+                {
+                    "start": 126, 
+                    "ann": "s", 
+                    "end": 171
+                }, 
+                {
+                    "start": 172, 
+                    "ann": "d", 
+                    "end": 176
+                }, 
+                {
+                    "start": 177, 
+                    "ann": "s", 
+                    "end": 177
+                }, 
+                {
+                    "start": 178, 
+                    "ann": "d", 
+                    "end": 184
+                }, 
+                {
+                    "start": 185, 
+                    "ann": "s", 
+                    "end": 226
+                }, 
+                {
+                    "start": 227, 
+                    "ann": "d", 
+                    "end": 251
+                }, 
+                {
+                    "start": 252, 
+                    "ann": "s", 
+                    "end": 679
+                }, 
+                {
+                    "start": 680, 
+                    "ann": "d", 
+                    "end": 689
+                }, 
+                {
+                    "start": 690, 
+                    "ann": "s", 
+                    "end": 822
+                }
+            ]
+        }
+    ]
+}
+,};
