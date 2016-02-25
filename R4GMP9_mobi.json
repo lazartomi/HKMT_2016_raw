@@ -1,0 +1,36 @@
+$ROOT={"MOBIDB" => {
+    "acc": "R4GMP9", 
+    "ename": "R4GMP9_HUMAN", 
+    "nmr": 0, 
+    "seq": "DFEFTGSHLTVRNGYSCVPVALAEGLDIKLNTAVRQVRYTASVFSHPTSAGCEVIAVNTRSTSQTFIYKCDAVLCTLPLGVLKQQPPAVQFVPPLPEWKTSAVQRMGFGNLNKVVLCFDRVFWDPSVNLFGHVGSTTASRGELFLFWNLYKAPILLALVAGEAAGIMENISDDVIVGRCLAILKGIFGSSAVPQPKETVVSRWRADPWARGSYSYVAAGSSGNDYDLMAQPITPGPSIPGAPQPIPRLFFAGEHTIRNYPATVHGALLSGLREAGRIADQFLGAMYTLPRQATPGVPAQQS", 
+    "length": 301, 
+    "xray": 0, 
+    "pCons": [
+        [
+            1, 
+            4
+        ], 
+        [
+            6, 
+            6
+        ], 
+        [
+            236, 
+            236
+        ], 
+        [
+            292, 
+            301
+        ]
+    ], 
+    "pname": "Lysine-specific histone demethylase 1A (Fragment)", 
+    "org": "Homo sapiens", 
+    "freqLong": 0, 
+    "freq": 5.32, 
+    "lpCons": []
+}
+,
+"DISORDER" => {
+    "error": "Error while fetching disorder data"
+}
+,};

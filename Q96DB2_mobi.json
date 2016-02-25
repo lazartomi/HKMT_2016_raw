@@ -1,0 +1,530 @@
+$ROOT={"MOBIDB" => {
+    "acc": "Q96DB2", 
+    "ename": "HDA11_HUMAN", 
+    "nmr": 0, 
+    "seq": "MLHTTQLYQHVPETRWPIVYSPRYNITFMGLEKLHPFDAGKWGKVINFLKEEKLLSDSMLVEAREASEEDLLVVHTRRYLNELKWSFAVATITEIPPVIFLPNFLVQRKVLRPLRTQTGGTIMAGKLAVERGWAINVGGGFHHCSSDRGGGFCAYADITLAIKFLFERVEGISRATIIDLDAHQGNGHERDFMDDKRVYIMDVYNRHIYPGDRFAKQAIRRKVELEWGTEDDEYLDKVERNIKKSLQEHLPDVVVYNAGTDILEGDRLGGLSISPAGIVKRDELVFRMVRGRRVPILMVTSGGYQKRTARIIADSILNLFGLGLIGPESPSVSAQNSDTPLLPPAVP", 
+    "length": 347, 
+    "xray": 0, 
+    "pCons": [
+        [
+            1, 
+            6
+        ], 
+        [
+            185, 
+            190
+        ], 
+        [
+            327, 
+            347
+        ]
+    ], 
+    "pname": "Histone deacetylase 11", 
+    "org": "Homo sapiens", 
+    "freqLong": 0, 
+    "freq": 9.51, 
+    "lpCons": []
+}
+,
+"DISORDER" => {
+    "consensus": {
+        "full": [
+            {
+                "start": 1, 
+                "ann": "d", 
+                "end": 6
+            }, 
+            {
+                "start": 7, 
+                "ann": "s", 
+                "end": 184
+            }, 
+            {
+                "start": 185, 
+                "ann": "d", 
+                "end": 190
+            }, 
+            {
+                "start": 191, 
+                "ann": "s", 
+                "end": 326
+            }, 
+            {
+                "start": 327, 
+                "ann": "d", 
+                "end": 347
+            }
+        ], 
+        "predictors": [
+            {
+                "start": 1, 
+                "ann": "d", 
+                "end": 6
+            }, 
+            {
+                "start": 7, 
+                "ann": "s", 
+                "end": 184
+            }, 
+            {
+                "start": 185, 
+                "ann": "d", 
+                "end": 190
+            }, 
+            {
+                "start": 191, 
+                "ann": "s", 
+                "end": 326
+            }, 
+            {
+                "start": 327, 
+                "ann": "d", 
+                "end": 347
+            }
+        ], 
+        "disprot": [], 
+        "long": [], 
+        "pdb": [], 
+        "pdb_xray": [], 
+        "pdb_nmr": []
+    }, 
+    "lowcomplex": [], 
+    "predictors": [
+        {
+            "pred": "dis465", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 5
+                }, 
+                {
+                    "start": 6, 
+                    "ann": "s", 
+                    "end": 329
+                }, 
+                {
+                    "start": 330, 
+                    "ann": "d", 
+                    "end": 339
+                }, 
+                {
+                    "start": 340, 
+                    "ann": "s", 
+                    "end": 340
+                }, 
+                {
+                    "start": 341, 
+                    "ann": "d", 
+                    "end": 342
+                }, 
+                {
+                    "start": 343, 
+                    "ann": "s", 
+                    "end": 343
+                }, 
+                {
+                    "start": 344, 
+                    "ann": "d", 
+                    "end": 347
+                }
+            ]
+        }, 
+        {
+            "pred": "espX", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 6
+                }, 
+                {
+                    "start": 7, 
+                    "ann": "s", 
+                    "end": 324
+                }, 
+                {
+                    "start": 325, 
+                    "ann": "d", 
+                    "end": 347
+                }
+            ]
+        }, 
+        {
+            "pred": "disHL", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 20
+                }, 
+                {
+                    "start": 21, 
+                    "ann": "s", 
+                    "end": 65
+                }, 
+                {
+                    "start": 66, 
+                    "ann": "d", 
+                    "end": 72
+                }, 
+                {
+                    "start": 73, 
+                    "ann": "s", 
+                    "end": 96
+                }, 
+                {
+                    "start": 97, 
+                    "ann": "d", 
+                    "end": 97
+                }, 
+                {
+                    "start": 98, 
+                    "ann": "s", 
+                    "end": 112
+                }, 
+                {
+                    "start": 113, 
+                    "ann": "d", 
+                    "end": 125
+                }, 
+                {
+                    "start": 126, 
+                    "ann": "s", 
+                    "end": 176
+                }, 
+                {
+                    "start": 177, 
+                    "ann": "d", 
+                    "end": 195
+                }, 
+                {
+                    "start": 196, 
+                    "ann": "s", 
+                    "end": 206
+                }, 
+                {
+                    "start": 207, 
+                    "ann": "d", 
+                    "end": 216
+                }, 
+                {
+                    "start": 217, 
+                    "ann": "s", 
+                    "end": 224
+                }, 
+                {
+                    "start": 225, 
+                    "ann": "d", 
+                    "end": 235
+                }, 
+                {
+                    "start": 236, 
+                    "ann": "s", 
+                    "end": 244
+                }, 
+                {
+                    "start": 245, 
+                    "ann": "d", 
+                    "end": 254
+                }, 
+                {
+                    "start": 255, 
+                    "ann": "s", 
+                    "end": 265
+                }, 
+                {
+                    "start": 266, 
+                    "ann": "d", 
+                    "end": 307
+                }, 
+                {
+                    "start": 308, 
+                    "ann": "s", 
+                    "end": 328
+                }, 
+                {
+                    "start": 329, 
+                    "ann": "d", 
+                    "end": 347
+                }
+            ]
+        }, 
+        {
+            "pred": "iupl", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "s", 
+                    "end": 332
+                }, 
+                {
+                    "start": 333, 
+                    "ann": "d", 
+                    "end": 347
+                }
+            ]
+        }, 
+        {
+            "pred": "espN", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 12
+                }, 
+                {
+                    "start": 13, 
+                    "ann": "s", 
+                    "end": 114
+                }, 
+                {
+                    "start": 115, 
+                    "ann": "d", 
+                    "end": 123
+                }, 
+                {
+                    "start": 124, 
+                    "ann": "s", 
+                    "end": 147
+                }, 
+                {
+                    "start": 148, 
+                    "ann": "d", 
+                    "end": 149
+                }, 
+                {
+                    "start": 150, 
+                    "ann": "s", 
+                    "end": 180
+                }, 
+                {
+                    "start": 181, 
+                    "ann": "d", 
+                    "end": 193
+                }, 
+                {
+                    "start": 194, 
+                    "ann": "s", 
+                    "end": 326
+                }, 
+                {
+                    "start": 327, 
+                    "ann": "d", 
+                    "end": 347
+                }
+            ]
+        }, 
+        {
+            "pred": "iups", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 6
+                }, 
+                {
+                    "start": 7, 
+                    "ann": "s", 
+                    "end": 330
+                }, 
+                {
+                    "start": 331, 
+                    "ann": "d", 
+                    "end": 331
+                }, 
+                {
+                    "start": 332, 
+                    "ann": "s", 
+                    "end": 333
+                }, 
+                {
+                    "start": 334, 
+                    "ann": "d", 
+                    "end": 347
+                }
+            ]
+        }, 
+        {
+            "pred": "vsl", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 6
+                }, 
+                {
+                    "start": 7, 
+                    "ann": "s", 
+                    "end": 60
+                }, 
+                {
+                    "start": 61, 
+                    "ann": "d", 
+                    "end": 70
+                }, 
+                {
+                    "start": 71, 
+                    "ann": "s", 
+                    "end": 143
+                }, 
+                {
+                    "start": 144, 
+                    "ann": "d", 
+                    "end": 148
+                }, 
+                {
+                    "start": 149, 
+                    "ann": "s", 
+                    "end": 183
+                }, 
+                {
+                    "start": 184, 
+                    "ann": "d", 
+                    "end": 192
+                }, 
+                {
+                    "start": 193, 
+                    "ann": "s", 
+                    "end": 241
+                }, 
+                {
+                    "start": 242, 
+                    "ann": "d", 
+                    "end": 245
+                }, 
+                {
+                    "start": 246, 
+                    "ann": "s", 
+                    "end": 326
+                }, 
+                {
+                    "start": 327, 
+                    "ann": "d", 
+                    "end": 347
+                }
+            ]
+        }, 
+        {
+            "pred": "espD", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "s", 
+                    "end": 347
+                }
+            ]
+        }, 
+        {
+            "pred": "jronn", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "s", 
+                    "end": 181
+                }, 
+                {
+                    "start": 182, 
+                    "ann": "d", 
+                    "end": 193
+                }, 
+                {
+                    "start": 194, 
+                    "ann": "s", 
+                    "end": 235
+                }, 
+                {
+                    "start": 236, 
+                    "ann": "d", 
+                    "end": 239
+                }, 
+                {
+                    "start": 240, 
+                    "ann": "s", 
+                    "end": 324
+                }, 
+                {
+                    "start": 325, 
+                    "ann": "d", 
+                    "end": 347
+                }
+            ]
+        }, 
+        {
+            "pred": "glo", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "s", 
+                    "end": 2
+                }, 
+                {
+                    "start": 3, 
+                    "ann": "d", 
+                    "end": 4
+                }, 
+                {
+                    "start": 5, 
+                    "ann": "s", 
+                    "end": 136
+                }, 
+                {
+                    "start": 137, 
+                    "ann": "d", 
+                    "end": 152
+                }, 
+                {
+                    "start": 153, 
+                    "ann": "s", 
+                    "end": 184
+                }, 
+                {
+                    "start": 185, 
+                    "ann": "d", 
+                    "end": 190
+                }, 
+                {
+                    "start": 191, 
+                    "ann": "s", 
+                    "end": 264
+                }, 
+                {
+                    "start": 265, 
+                    "ann": "d", 
+                    "end": 273
+                }, 
+                {
+                    "start": 274, 
+                    "ann": "s", 
+                    "end": 321
+                }, 
+                {
+                    "start": 322, 
+                    "ann": "d", 
+                    "end": 339
+                }, 
+                {
+                    "start": 340, 
+                    "ann": "s", 
+                    "end": 341
+                }, 
+                {
+                    "start": 342, 
+                    "ann": "d", 
+                    "end": 343
+                }, 
+                {
+                    "start": 344, 
+                    "ann": "s", 
+                    "end": 345
+                }, 
+                {
+                    "start": 346, 
+                    "ann": "d", 
+                    "end": 347
+                }
+            ]
+        }
+    ]
+}
+,};

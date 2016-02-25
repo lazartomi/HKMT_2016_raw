@@ -1,0 +1,777 @@
+$ROOT={"MOBIDB" => {
+    "acc": "Q13547", 
+    "ename": "HDAC1_HUMAN", 
+    "nmr": 0, 
+    "seq": "MAQTQGTRRKVCYYYDGDVGNYYYGQGHPMKPHRIRMTHNLLLNYGLYRKMEIYRPHKANAEEMTKYHSDDYIKFLRSIRPDNMSEYSKQMQRFNVGEDCPVFDGLFEFCQLSTGGSVASAVKLNKQQTDIAVNWAGGLHHAKKSEASGFCYVNDIVLAILELLKYHQRVLYIDIDIHHGDGVEEAFYTTDRVMTVSFHKYGEYFPGTGDLRDIGAGKGKYYAVNYPLRDGIDDESYEAIFKPVMSKVMEMFQPSAVVLQCGSDSLSGDRLGCFNLTIKGHAKCVEFVKSFNLPMLMLGGGGYTIRNVARCWTYETAVALDTEIPNELPYNDYFEYFGPDFKLHISPSNMTNQNTNEYLEKIKQRLFENLRMLPHAPGVQMQAIPEDAIPEESGDEDEDDPDKRISICSSDKRIACEEEFSDSEEEGEGGRKNSSNFKKAKRVKTEDEKEKDPEEKKEVTEEEKTKEEKPEAKGVKEEVKLA", 
+    "length": 482, 
+    "xray": 1, 
+    "pCons": [
+        [
+            1, 
+            6
+        ], 
+        [
+            348, 
+            350
+        ], 
+        [
+            352, 
+            352
+        ], 
+        [
+            356, 
+            356
+        ], 
+        [
+            374, 
+            482
+        ]
+    ], 
+    "pname": "Histone deacetylase 1", 
+    "org": "Homo sapiens", 
+    "freqLong": 13.9, 
+    "freq": 24.9, 
+    "lpCons": [
+        [
+            416, 
+            482
+        ]
+    ]
+}
+,
+"DISORDER" => {
+    "consensus": {
+        "full": [
+            {
+                "start": 1, 
+                "ann": "D", 
+                "end": 7
+            }, 
+            {
+                "start": 8, 
+                "ann": "S", 
+                "end": 376
+            }, 
+            {
+                "start": 377, 
+                "ann": "D", 
+                "end": 482
+            }
+        ], 
+        "predictors": [
+            {
+                "start": 1, 
+                "ann": "d", 
+                "end": 6
+            }, 
+            {
+                "start": 7, 
+                "ann": "s", 
+                "end": 347
+            }, 
+            {
+                "start": 348, 
+                "ann": "d", 
+                "end": 350
+            }, 
+            {
+                "start": 351, 
+                "ann": "s", 
+                "end": 351
+            }, 
+            {
+                "start": 352, 
+                "ann": "d", 
+                "end": 352
+            }, 
+            {
+                "start": 353, 
+                "ann": "s", 
+                "end": 355
+            }, 
+            {
+                "start": 356, 
+                "ann": "d", 
+                "end": 356
+            }, 
+            {
+                "start": 357, 
+                "ann": "s", 
+                "end": 373
+            }, 
+            {
+                "start": 374, 
+                "ann": "d", 
+                "end": 482
+            }
+        ], 
+        "disprot": [], 
+        "long": [
+            {
+                "start": 416, 
+                "ann": "d", 
+                "end": 482
+            }
+        ], 
+        "pdb": [
+            {
+                "start": 1, 
+                "ann": "D", 
+                "end": 7
+            }, 
+            {
+                "start": 8, 
+                "ann": "S", 
+                "end": 376
+            }, 
+            {
+                "start": 377, 
+                "ann": "D", 
+                "end": 482
+            }
+        ], 
+        "pdb_xray": [
+            {
+                "start": 1, 
+                "ann": "D", 
+                "end": 7
+            }, 
+            {
+                "start": 8, 
+                "ann": "S", 
+                "end": 376
+            }, 
+            {
+                "start": 377, 
+                "ann": "D", 
+                "end": 482
+            }
+        ], 
+        "pdb_nmr": []
+    }, 
+    "lowcomplex": [], 
+    "pdb": [
+        {
+            "consensus": [
+                {
+                    "start": 1, 
+                    "ann": "D", 
+                    "end": 7
+                }, 
+                {
+                    "start": 8, 
+                    "ann": "S", 
+                    "end": 376
+                }, 
+                {
+                    "start": 377, 
+                    "ann": "D", 
+                    "end": 482
+                }
+            ], 
+            "type": "xray", 
+            "resolution": 3, 
+            "chains": [
+                {
+                    "anns": [
+                        {
+                            "start": 1, 
+                            "ann": "D", 
+                            "end": 7
+                        }, 
+                        {
+                            "start": 8, 
+                            "ann": "S", 
+                            "end": 376
+                        }, 
+                        {
+                            "start": 377, 
+                            "ann": "D", 
+                            "end": 482
+                        }
+                    ], 
+                    "id": "B"
+                }
+            ], 
+            "id": "4bkx"
+        }
+    ], 
+    "predictors": [
+        {
+            "pred": "dis465", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 8
+                }, 
+                {
+                    "start": 9, 
+                    "ann": "s", 
+                    "end": 389
+                }, 
+                {
+                    "start": 390, 
+                    "ann": "d", 
+                    "end": 402
+                }, 
+                {
+                    "start": 403, 
+                    "ann": "s", 
+                    "end": 415
+                }, 
+                {
+                    "start": 416, 
+                    "ann": "d", 
+                    "end": 482
+                }
+            ]
+        }, 
+        {
+            "pred": "espX", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 9
+                }, 
+                {
+                    "start": 10, 
+                    "ann": "s", 
+                    "end": 366
+                }, 
+                {
+                    "start": 367, 
+                    "ann": "d", 
+                    "end": 482
+                }
+            ]
+        }, 
+        {
+            "pred": "disHL", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 7
+                }, 
+                {
+                    "start": 8, 
+                    "ann": "s", 
+                    "end": 8
+                }, 
+                {
+                    "start": 9, 
+                    "ann": "d", 
+                    "end": 15
+                }, 
+                {
+                    "start": 16, 
+                    "ann": "s", 
+                    "end": 59
+                }, 
+                {
+                    "start": 60, 
+                    "ann": "d", 
+                    "end": 60
+                }, 
+                {
+                    "start": 61, 
+                    "ann": "s", 
+                    "end": 61
+                }, 
+                {
+                    "start": 62, 
+                    "ann": "d", 
+                    "end": 66
+                }, 
+                {
+                    "start": 67, 
+                    "ann": "s", 
+                    "end": 202
+                }, 
+                {
+                    "start": 203, 
+                    "ann": "d", 
+                    "end": 211
+                }, 
+                {
+                    "start": 212, 
+                    "ann": "s", 
+                    "end": 212
+                }, 
+                {
+                    "start": 213, 
+                    "ann": "d", 
+                    "end": 214
+                }, 
+                {
+                    "start": 215, 
+                    "ann": "s", 
+                    "end": 227
+                }, 
+                {
+                    "start": 228, 
+                    "ann": "d", 
+                    "end": 234
+                }, 
+                {
+                    "start": 235, 
+                    "ann": "s", 
+                    "end": 323
+                }, 
+                {
+                    "start": 324, 
+                    "ann": "d", 
+                    "end": 325
+                }, 
+                {
+                    "start": 326, 
+                    "ann": "s", 
+                    "end": 347
+                }, 
+                {
+                    "start": 348, 
+                    "ann": "d", 
+                    "end": 350
+                }, 
+                {
+                    "start": 351, 
+                    "ann": "s", 
+                    "end": 377
+                }, 
+                {
+                    "start": 378, 
+                    "ann": "d", 
+                    "end": 378
+                }, 
+                {
+                    "start": 379, 
+                    "ann": "s", 
+                    "end": 390
+                }, 
+                {
+                    "start": 391, 
+                    "ann": "d", 
+                    "end": 403
+                }, 
+                {
+                    "start": 404, 
+                    "ann": "s", 
+                    "end": 405
+                }, 
+                {
+                    "start": 406, 
+                    "ann": "d", 
+                    "end": 482
+                }
+            ]
+        }, 
+        {
+            "pred": "iupl", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "s", 
+                    "end": 347
+                }, 
+                {
+                    "start": 348, 
+                    "ann": "d", 
+                    "end": 349
+                }, 
+                {
+                    "start": 350, 
+                    "ann": "s", 
+                    "end": 351
+                }, 
+                {
+                    "start": 352, 
+                    "ann": "d", 
+                    "end": 358
+                }, 
+                {
+                    "start": 359, 
+                    "ann": "s", 
+                    "end": 373
+                }, 
+                {
+                    "start": 374, 
+                    "ann": "d", 
+                    "end": 408
+                }, 
+                {
+                    "start": 409, 
+                    "ann": "s", 
+                    "end": 414
+                }, 
+                {
+                    "start": 415, 
+                    "ann": "d", 
+                    "end": 482
+                }
+            ]
+        }, 
+        {
+            "pred": "espN", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 9
+                }, 
+                {
+                    "start": 10, 
+                    "ann": "s", 
+                    "end": 347
+                }, 
+                {
+                    "start": 348, 
+                    "ann": "d", 
+                    "end": 356
+                }, 
+                {
+                    "start": 357, 
+                    "ann": "s", 
+                    "end": 369
+                }, 
+                {
+                    "start": 370, 
+                    "ann": "d", 
+                    "end": 482
+                }
+            ]
+        }, 
+        {
+            "pred": "iups", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 5
+                }, 
+                {
+                    "start": 6, 
+                    "ann": "s", 
+                    "end": 347
+                }, 
+                {
+                    "start": 348, 
+                    "ann": "d", 
+                    "end": 348
+                }, 
+                {
+                    "start": 349, 
+                    "ann": "s", 
+                    "end": 355
+                }, 
+                {
+                    "start": 356, 
+                    "ann": "d", 
+                    "end": 357
+                }, 
+                {
+                    "start": 358, 
+                    "ann": "s", 
+                    "end": 372
+                }, 
+                {
+                    "start": 373, 
+                    "ann": "d", 
+                    "end": 374
+                }, 
+                {
+                    "start": 375, 
+                    "ann": "s", 
+                    "end": 376
+                }, 
+                {
+                    "start": 377, 
+                    "ann": "d", 
+                    "end": 410
+                }, 
+                {
+                    "start": 411, 
+                    "ann": "s", 
+                    "end": 417
+                }, 
+                {
+                    "start": 418, 
+                    "ann": "d", 
+                    "end": 434
+                }, 
+                {
+                    "start": 435, 
+                    "ann": "s", 
+                    "end": 437
+                }, 
+                {
+                    "start": 438, 
+                    "ann": "d", 
+                    "end": 439
+                }, 
+                {
+                    "start": 440, 
+                    "ann": "s", 
+                    "end": 442
+                }, 
+                {
+                    "start": 443, 
+                    "ann": "d", 
+                    "end": 446
+                }, 
+                {
+                    "start": 447, 
+                    "ann": "s", 
+                    "end": 448
+                }, 
+                {
+                    "start": 449, 
+                    "ann": "d", 
+                    "end": 482
+                }
+            ]
+        }, 
+        {
+            "pred": "vsl", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "d", 
+                    "end": 6
+                }, 
+                {
+                    "start": 7, 
+                    "ann": "s", 
+                    "end": 26
+                }, 
+                {
+                    "start": 27, 
+                    "ann": "d", 
+                    "end": 34
+                }, 
+                {
+                    "start": 35, 
+                    "ann": "s", 
+                    "end": 57
+                }, 
+                {
+                    "start": 58, 
+                    "ann": "d", 
+                    "end": 66
+                }, 
+                {
+                    "start": 67, 
+                    "ann": "s", 
+                    "end": 80
+                }, 
+                {
+                    "start": 81, 
+                    "ann": "d", 
+                    "end": 90
+                }, 
+                {
+                    "start": 91, 
+                    "ann": "s", 
+                    "end": 140
+                }, 
+                {
+                    "start": 141, 
+                    "ann": "d", 
+                    "end": 147
+                }, 
+                {
+                    "start": 148, 
+                    "ann": "s", 
+                    "end": 346
+                }, 
+                {
+                    "start": 347, 
+                    "ann": "d", 
+                    "end": 358
+                }, 
+                {
+                    "start": 359, 
+                    "ann": "s", 
+                    "end": 368
+                }, 
+                {
+                    "start": 369, 
+                    "ann": "d", 
+                    "end": 482
+                }
+            ]
+        }, 
+        {
+            "pred": "espD", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "s", 
+                    "end": 408
+                }, 
+                {
+                    "start": 409, 
+                    "ann": "d", 
+                    "end": 482
+                }
+            ]
+        }, 
+        {
+            "pred": "jronn", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "s", 
+                    "end": 55
+                }, 
+                {
+                    "start": 56, 
+                    "ann": "d", 
+                    "end": 58
+                }, 
+                {
+                    "start": 59, 
+                    "ann": "s", 
+                    "end": 349
+                }, 
+                {
+                    "start": 350, 
+                    "ann": "d", 
+                    "end": 360
+                }, 
+                {
+                    "start": 361, 
+                    "ann": "s", 
+                    "end": 374
+                }, 
+                {
+                    "start": 375, 
+                    "ann": "d", 
+                    "end": 482
+                }
+            ]
+        }, 
+        {
+            "pred": "glo", 
+            "anns": [
+                {
+                    "start": 1, 
+                    "ann": "s", 
+                    "end": 2
+                }, 
+                {
+                    "start": 3, 
+                    "ann": "d", 
+                    "end": 3
+                }, 
+                {
+                    "start": 4, 
+                    "ann": "s", 
+                    "end": 4
+                }, 
+                {
+                    "start": 5, 
+                    "ann": "d", 
+                    "end": 6
+                }, 
+                {
+                    "start": 7, 
+                    "ann": "s", 
+                    "end": 17
+                }, 
+                {
+                    "start": 18, 
+                    "ann": "d", 
+                    "end": 32
+                }, 
+                {
+                    "start": 33, 
+                    "ann": "s", 
+                    "end": 201
+                }, 
+                {
+                    "start": 202, 
+                    "ann": "d", 
+                    "end": 216
+                }, 
+                {
+                    "start": 217, 
+                    "ann": "s", 
+                    "end": 261
+                }, 
+                {
+                    "start": 262, 
+                    "ann": "d", 
+                    "end": 272
+                }, 
+                {
+                    "start": 273, 
+                    "ann": "s", 
+                    "end": 294
+                }, 
+                {
+                    "start": 295, 
+                    "ann": "d", 
+                    "end": 301
+                }, 
+                {
+                    "start": 302, 
+                    "ann": "s", 
+                    "end": 329
+                }, 
+                {
+                    "start": 330, 
+                    "ann": "d", 
+                    "end": 334
+                }, 
+                {
+                    "start": 335, 
+                    "ann": "s", 
+                    "end": 337
+                }, 
+                {
+                    "start": 338, 
+                    "ann": "d", 
+                    "end": 352
+                }, 
+                {
+                    "start": 353, 
+                    "ann": "s", 
+                    "end": 389
+                }, 
+                {
+                    "start": 390, 
+                    "ann": "d", 
+                    "end": 404
+                }, 
+                {
+                    "start": 405, 
+                    "ann": "s", 
+                    "end": 423
+                }, 
+                {
+                    "start": 424, 
+                    "ann": "d", 
+                    "end": 435
+                }, 
+                {
+                    "start": 436, 
+                    "ann": "s", 
+                    "end": 472
+                }, 
+                {
+                    "start": 473, 
+                    "ann": "d", 
+                    "end": 473
+                }, 
+                {
+                    "start": 474, 
+                    "ann": "s", 
+                    "end": 482
+                }
+            ]
+        }
+    ]
+}
+,};
