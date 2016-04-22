@@ -1,0 +1,10 @@
+1187 1195 DEG_SIAH_1 binding prediction
+1196 1200 LIG_MYND_2 binding prediction
+2536 2539 DOC_MAPK_2 binding prediction
+2598 2603 DEG_Kelch_Keap1_1 binding prediction
+3023 3031 MOD_PIKK_1 binding prediction
+3034 3041 MOD_PIKK_1 binding prediction
+4255 4262 LIG_RRM_PRI_1 binding prediction
+4415 4421 LIG_KEPE_1 non-binding experimental
+5177 5185 LIG_EH1_1 binding prediction
+5338 5344 LIG_WD40_WD5_WIN_1 binding experimental
